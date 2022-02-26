@@ -1,4 +1,5 @@
 #include "main.hpp"
+#include "modTest.hpp"
 
 static ModInfo modInfo; // Stores the ID and version of our mod, and is sent to the modloader upon startup
 
@@ -31,6 +32,6 @@ extern "C" void load() {
 
     getLogger().info("Installing hooks...");
     // Install our hooks 
-    LaunchQuotes::InstallHooks();
+    modTest::InstallHooks();
     getLogger().info("Installed all hooks!");
 }
