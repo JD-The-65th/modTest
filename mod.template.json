@@ -1,0 +1,15 @@
+{
+  "_QPVersion": "0.1.2",
+  "name": "Mod Test",
+  "id": "${mod_id}",
+  "author": "Jd The 65th",
+  "version": "${version}",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.19.0",
+  "description": "Testing world for JD ",
+  "dependencies": [],
+  "modFiles": [],
+  "libraryFiles": [],
+  "fileCopies": [],
+  "copyExtensions": []
+}
