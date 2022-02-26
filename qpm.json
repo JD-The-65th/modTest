@@ -39,6 +39,21 @@
       "id": "codegen",
       "versionRange": "^0.19.3",
       "additionalData": {}
+    },
+    {
+      "id": "songdownloader",
+      "versionRange": "^0.4.0",
+      "additionalData": {}
+    },
+    {
+      "id": "songloader",
+      "versionRange": "^0.8.3",
+      "additionalData": {}
+    },
+    {
+      "id": "pinkcore",
+      "versionRange": "^1.6.4",
+      "additionalData": {}
     }
   ],
   "additionalData": {}
