@@ -30,6 +30,7 @@ extern "C" void load() {
     il2cpp_functions::Init();
 
     getLogger().info("Installing hooks...");
-    // Install our hooks (none defined yet)
+    // Install our hooks 
+    LaunchQuotes::InstallHooks();
     getLogger().info("Installed all hooks!");
 }
